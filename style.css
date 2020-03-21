@@ -1,0 +1,35 @@
+body {
+background: rosybrown;
+margin-left: 100px;
+margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: forestgreen;
+    font-family: sans-serif
+}
+
+h2{
+    color: blueviolet;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 20px;
+}
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 45px;
+}
